@@ -1,0 +1,19 @@
+/* estilos para el body */
+body {
+	background-color:#e1ecf1;
+}
+
+h1 {
+	color:white;
+	background-color:blue
+}
+
+/* estilos para los p */
+p {
+	background-color: yellow;
+}
+
+h2 {
+	color: white;
+	background-color:red;
+}

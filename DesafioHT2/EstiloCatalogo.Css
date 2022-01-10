@@ -1,0 +1,39 @@
+body{
+    background-color:midnightblue;
+}
+h1{
+    color: mintcream;
+}
+nav{
+    color: mintcream;
+}
+article{
+    color: mintcream;
+    background-color: black;
+    width: 50%;
+}
+#Mouse{
+    background-color: mediumslateblue;
+    width: 50%;
+}
+
+#Silla{
+    background-color: mediumblue;
+    width: 50%;
+}
+#PC{
+    background-color: mediumslateblue;
+    width:50%;
+}
+#Audifonos{
+    background-color: mediumblue;
+    width: 50%;
+}
+.Final{
+    background-color: mintcream;
+    width: 50%;
+}
+.año{
+    background-color:mediumpurple;
+    width: 50%;
+}

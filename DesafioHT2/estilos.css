@@ -1,0 +1,38 @@
+/* Estilos */
+/* Prodecemos A dar color al fondo*/
+body{
+    background-color: darkgray;
+}
+
+/* estilo de id */
+#foto {
+background-color:darkgoldenrod;
+}
+#Presentacion{
+    background-color:blanchedalmond;
+}
+#Curriculum{
+    background-color: crimson;
+}
+#PanelInicio{
+    background-color: darkgoldenrod;
+}
+#Sub{
+    background-color: cornsilk;
+}
+/*estilos de clases*/
+.EMPRESA{
+    background-color: crimson;
+}
+.Titulos{
+    background-color: ghostwhite;
+}
+.Inicio{
+    background-color:aliceblue;
+}
+.PanelMedio{
+    background-color: cornsilk;
+}
+.PanelFinal{
+    background-color: darkgoldenrod;
+}

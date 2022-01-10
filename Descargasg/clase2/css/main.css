@@ -1,0 +1,69 @@
+
+h1 {
+    background-color: brown;
+}
+
+h3 {
+    color: azure;
+}
+/* todos los h4 */
+h4 {
+    background-color: beige;
+}
+
+#titulo {
+	background-color:yellow;
+	color:red;
+}
+
+/* los h4 que estan adentro del aside */
+aside h4 {
+    color:dodgerblue;
+    font-size: 20px;
+}
+
+/* los p que estan adentro de los article que estan adentro del aside*/
+aside article p {
+    color: greenyellow;
+}
+
+div {
+    background-color: beige
+}
+/*  estilos del elemento cuyo id sea encabezado */
+header {
+    color:red;
+    background-color: aquamarine;
+}
+
+section {
+    background-color: cornflowerblue
+}
+
+footer {
+    background-color: coral;
+    color: white
+}
+
+aside {
+    background-color: dimgrey
+}
+
+/* estilos de id */
+#logo {
+    /*background-color:white;*/
+    width:25%;
+}
+/* estilos de clases */
+.noticias {
+    color:yellow;
+    background-color: black;
+    width:50%;
+}
+.porc75 {
+    width:75%;
+}
+
+.año{
+    background-color: blueviolet
+}
